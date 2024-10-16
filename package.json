@@ -1,0 +1,16 @@
+{
+  "name": "visualdata",
+  "version": "1.0.0",
+  "description": "with Graph.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
